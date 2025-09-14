@@ -14,37 +14,33 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - Travaux pratiques : 8h
 
 ### Contenu
-- Monoïde des mots
-- Langages rationnels
-  - Expressions régulières
-  - Automate fini
-  - Langage reconnu par un automate fini
-  - Déterminisation et minimisation d'un automate fini
-  - Lemme d’Arden
-  - Lemme de l’Étoile
-- Langages algébriques
-  - Grammaire algébrique
-  - Arbre de dérivation
-  - Automates à pile
-- Hiérarchie de Chomsky
-  - Classification des grammaires
-  - Algorithmes de reconnaissance pour les grammaires de type 1 et 2
-- Analyse lexicale et syntaxique
-  - TP de flex et bison
+- Machines de Turing
+  - Langage décidé et accepté; Langages récursivement énumérables
+  - Encodage des machines de Turing; Machine de Turing universelle
+  - Machine de Turing déterministe
+- Calculabilité
+  - Existence de fonctions non-calculables par dénombrabilité
+  - Problème de l'arrêt
+  - Problèmes indécidables
+  - Réductions entre problèmes
+  - Théorème de Rice
+  - Équivalence entre modèles de calcul; Thèse de Church-Turing
+- Complexité (10h)
+  - Classes de complexité P et NP
+  - Problème SAT; Théorème de Cook
+  - Problèmes NP-durs et NP-complets
 
 ### Résultats d'apprentissage
 À la fin de ce cours, un étudiant doit être capable de :
-- Utiliser les logiciels flex et bison
-- Écrire une expression rationnelle
-- Résoudre un système d'équations linéaires à droite
-- Déterminer si un mot donné est reconnu par un automate fini ou un automate à pile
-- Déterminer la classe d'une grammaire formelle dans la hiérarchie de Chomsky
-- Savoir si un mot est engendré par une grammaire rationnelle, algébrique ou contextuelle
-- Minimaliser et déterminiser un automate fini
-- Transformer une grammaire rationnelle en une expression rationnelle ou en un automate fini et inversement
+- Comprendre les fondements de la théorie de la calculabilité
+  -  Équivalence entre les modèles de calcul (machines de Turing et fonctions calculables)
+  -  Comment ils peuvent être utilisés pour décrire la notion de calculabilité et les problèmes indécidables.
+- Modéliser des algorithmes simples sous la forme d'une machine de Turing.
+- Décrire les classes de complexité P et NP et reconnaître des problèmes NP-complets.
+- Appliquer les techniques de réduction de problèmes pour montrer que certains problèmes sont indécidables et pour établir des propriétés des problèmes indécidables.
+- Appliquer les techniques de réduction pour montrer que certains problèmes sont NP-durs.
 
 ### Bibliographie
-- K. D. Cooper & L. Torczon. **Engineering a compiler** – 2nd Ed., Morgan Kaufmann 2013
 - P. Wolper. **Introduction à la calculabilité** – 3nd Ed., Dunod 2006
 - O. Carton. **Langages Formels – Calculabilité et complexité**, Vuibert 2008
 
