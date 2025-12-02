@@ -2,6 +2,38 @@
 
 Cette organisation contient les ressources et projets liés au cours **Langages et Automates** de Nantes Université.
 
+## Ressources du module
+
+### Cours magistral
+
+- [Slides](https://LangagesEtAutomates.github.io/CM/LEA.pdf) : version PDF avec animations
+- [Handout](https://LangagesEtAutomates.github.io/CM/LEA-handout.pdf) : version PDF sans animation
+
+### Travaux dirigés
+
+- [Livret de TD](https://LangagesEtAutomates.github.io/Exercises/td.pdf) : livret de TD
+
+### Travaux pratiques
+
+- TP 1 : Coloration syntaxique dans Gedit
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-gedit.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/TP1-Template): code Java à compléter
+- TP 2 : Introduction à JFlex
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-flex.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/TP2-Template): code Java à compléter
+- TP 3 : Introduction à CUP
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-cup.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/TP3-Template): code Java à compléter
+- TP 4 : Syntaxe des expressions arithmétiques
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-expressions.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/TP4-Template): code Java à compléter
+- TP 5 : Syntaxe des structures de contrôle
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-instructions.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/TP5-Template): code Java à compléter
+- TP 6 : Conception d'un interpréteur
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-interpreter.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/TP6-Template): code Java à compléter
+
 ## Description du module
 
 Ce cours est destiné à des étudiants de L2 en Informatique ou Mathématiques, ainsi qu'à toute personne s'intéressant à la théorie des langages formels, aux automates et à la compilation.
@@ -30,11 +62,11 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
   - Classification des grammaires
   - Algorithmes de reconnaissance pour les grammaires de type 1 et 2
 - Analyse lexicale et syntaxique
-  - TP de flex et bison
+  - TP de JFlex et CUP
 
 ### Résultats d'apprentissage
 À la fin de ce cours, un étudiant doit être capable de :
-- Utiliser les logiciels flex et bison
+- Utiliser les logiciels JFlex et CUP
 - Écrire une expression rationnelle
 - Résoudre un système d'équations linéaires à droite
 - Déterminer si un mot donné est reconnu par un automate fini ou un automate à pile
@@ -45,23 +77,25 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 
 ### Bibliographie
 - K. D. Cooper & L. Torczon. **Engineering a compiler** – 2nd Ed., Morgan Kaufmann 2013
-- P. Wolper. **Introduction à la calculabilité** – 3nd Ed., Dunod 2006
+- P. Wolper. **Introduction à la calculabilité** – 3rd Ed., Dunod 2006
 - O. Carton. **Langages Formels – Calculabilité et complexité**, Vuibert 2008
 
-## Dépôts principaux
-- [**CM**](https://github.com/LangagesEtAutomates/CM) — Slides de cours.
-  - [Slides](https://LangagesEtAutomates.github.io/CM/slides.pdf): version PDF avec animations
-  - [Handout](https://LangagesEtAutomates.github.io/CM/handout.pdf): version PDF sans animation
-- [**TD**](https://github.com/LangagesEtAutomates/TD) — Énoncés et corrections de TD.
-  - Dépôt privé accessible aux enseignants sur demande
-- [**TP-Sujets**](https://github.com/LangagesEtAutomates/TP-Sujets) — Sujets pour les TP.
-  - Dépôt privé accessible aux enseignants sur demande
-- **TPn-Template** (pour n de 1 à 6) — Templates pour les Github classrooms des TP.
+---
 
 ## Cours lié
-Ce cours a été conçus comme la première partie d'un cours sur les fondements de la calculabilité en informatique théorique. Il est suivi par un cours de [Calculabilité et Complexité](https://github.com/CalculabiliteEtComplexite) en L3, dédié aux machines de Turing, à la calculabilité et à la complexité. 
+Ce cours a été conçu comme la première partie d'un cours sur les fondements de la calculabilité en informatique théorique.
+Il est suivi par un cours de [Calculabilité et Complexité](https://github.com/CalculabiliteEtComplexite) en L3,
+dédié aux machines de Turing, à la calculabilité et à la complexité. 
 
 ## Licence
-Sauf mention contraire, les contenus sont sous licence
-- [Creative Commons Attribution - ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) pour les sources LaTeX.
-- [MIT](https://opensource.org/licenses/MIT) pour les projets Java.
+
+Sauf mention contraire, les contenus de cette organisation sont distribués sous les licences suivantes :
+
+- **Supports pédagogiques (LaTeX, transparents, exercices, PDF)** :  
+  [Creative Commons Attribution - ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Code source Java (snippets, projets de TP)** :  
+  [MIT License](https://opensource.org/licenses/MIT)
+
+Les détails, ainsi que les mentions d'attribution, les licences des images et des données externes,
+sont disponibles dans le fichier [LICENSE.md](https://github.com/LangagesEtAutomates/.github/blob/main/LICENSE.md).
+
