@@ -19,19 +19,19 @@ Cette organisation contient les ressources et projets liés au cours **Langages 
   - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-gedit.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/TP1-Template): code Java à compléter
 - TP 2 : Introduction à JFlex
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-flex.pdf) : version PDF du sujet
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-jflex.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/TP2-Template): code Java à compléter
 - TP 3 : Introduction à CUP
   - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-cup.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/TP3-Template): code Java à compléter
-- TP 4 : Syntaxe des expressions arithmétiques
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-expressions.pdf) : version PDF du sujet
+- TP 4 : Typage dynamique d'expressions
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-types.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/TP4-Template): code Java à compléter
-- TP 5 : Syntaxe des structures de contrôle
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-instructions.pdf) : version PDF du sujet
+- TP 5 : Conception d'un interpréteur en Java
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-interpreteur.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/TP5-Template): code Java à compléter
-- TP 6 : Conception d'un interpréteur
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-interpreter.pdf) : version PDF du sujet
+- TP 6 : Analyse statique de programmes
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-analyse.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/TP6-Template): code Java à compléter
 
 ## Description du module
