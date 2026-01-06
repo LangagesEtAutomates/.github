@@ -1,7 +1,8 @@
 # Global License and Attributions
 
 This file applies to all repositories under the **LangagesEtAutomates** organization.  
-Each public repository includes its own `LICENSE.txt` containing the full legal text of its primary license (MIT for code, CC BY-SA 4.0 for teaching materials).
+Each public repository includes its own `LICENSE.txt` containing the full legal text of its primary license
+(MIT for code, CC BY-SA 4.0 for teaching materials).
 
 **Author:** Matthieu Perrin  
 **Copyright:** © 2025 Matthieu Perrin

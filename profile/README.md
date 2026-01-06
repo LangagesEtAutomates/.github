@@ -2,6 +2,8 @@
 
 Cette organisation contient les ressources et projets liés au cours **Langages et Automates** de Nantes Université.
 
+---
+
 ## Ressources du module
 
 ### Cours magistral
@@ -11,28 +13,30 @@ Cette organisation contient les ressources et projets liés au cours **Langages 
 
 ### Travaux dirigés
 
-- [Livret de TD](https://LangagesEtAutomates.github.io/Exercises/td.pdf) : livret de TD
+- [Livret de TD](https://LangagesEtAutomates.github.io/Exercises/lea-td.pdf) : livret de TD
 
 ### Travaux pratiques
 
 - TP 1 : Coloration syntaxique dans Gedit
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-gedit.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/TP1-Template): code Java à compléter
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp1-gedit.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp1-gedit): code Java à compléter
 - TP 2 : Introduction à JFlex
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-jflex.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/TP2-Template): code Java à compléter
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp2-lexer.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp2-lexer): code Java à compléter
 - TP 3 : Introduction à CUP
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-cup.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/TP3-Template): code Java à compléter
-- TP 4 : Typage dynamique d'expressions
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-types.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/TP4-Template): code Java à compléter
-- TP 5 : Conception d'un interpréteur en Java
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-interpreteur.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/TP5-Template): code Java à compléter
-- TP 6 : Analyse statique de programmes
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/tp-analyse.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/TP6-Template): code Java à compléter
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp3-parser.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp3-parser): code Java à compléter
+- TP 4 : Interpréteur pour le langage algorithmique
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp4-interpreter.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp4-interpreter): code Java à compléter
+- TP 5 : Analyse statique de programmes
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp5-analyser.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp5-analyser): code Java à compléter
+- TP 6 : Projet — Enregistrements
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp6-project.pdf) : version PDF du sujet
+  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp6-project): code Java à compléter
+
+---
 
 ## Description du module
 
@@ -46,6 +50,7 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - Travaux pratiques : 8h
 
 ### Contenu
+
 - Monoïde des mots
 - Langages rationnels
   - Expressions régulières
@@ -65,6 +70,7 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
   - TP de JFlex et CUP
 
 ### Résultats d'apprentissage
+
 À la fin de ce cours, un étudiant doit être capable de :
 - Utiliser les logiciels JFlex et CUP
 - Écrire une expression rationnelle
@@ -76,6 +82,7 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - Transformer une grammaire rationnelle en une expression rationnelle ou en un automate fini et inversement
 
 ### Bibliographie
+
 - K. D. Cooper & L. Torczon. **Engineering a compiler** – 2nd Ed., Morgan Kaufmann 2013
 - P. Wolper. **Introduction à la calculabilité** – 3rd Ed., Dunod 2006
 - O. Carton. **Langages Formels – Calculabilité et complexité**, Vuibert 2008
@@ -83,9 +90,12 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 ---
 
 ## Cours lié
+
 Ce cours a été conçu comme la première partie d'un cours sur les fondements de la calculabilité en informatique théorique.
 Il est suivi par un cours de [Calculabilité et Complexité](https://github.com/CalculabiliteEtComplexite) en L3,
 dédié aux machines de Turing, à la calculabilité et à la complexité. 
+
+---
 
 ## Licence
 
