@@ -17,23 +17,20 @@ Cette organisation contient les ressources et projets liés au cours **Langages 
 
 ### Travaux pratiques
 
-- TP 1 : Coloration syntaxique dans Gedit
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp1-gedit.pdf) : version PDF du sujet
-  - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp1-gedit): code Java à compléter
-- TP 2 : Introduction à JFlex
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp2-lexer.pdf) : version PDF du sujet
+- TP 1 : Introduction à JFlex
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp1-lexer.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp2-lexer): code Java à compléter
-- TP 3 : Introduction à CUP
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp3-parser.pdf) : version PDF du sujet
+- TP 2 : Introduction à CUP
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp2-parser.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp3-parser): code Java à compléter
-- TP 4 : Interpréteur pour le langage algorithmique
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp4-interpreter.pdf) : version PDF du sujet
+- TP 3 : Interpréteur pour le langage algorithmique
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp3-interpreter.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp4-interpreter): code Java à compléter
-- TP 5 : Analyse statique de programmes
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp5-analyser.pdf) : version PDF du sujet
+- TP 4 : Analyse statique de programmes
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp4-analyser.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp5-analyser): code Java à compléter
-- TP 6 : Projet — Enregistrements
-  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp6-project.pdf) : version PDF du sujet
+- TP 5 : Projet — Enregistrements
+  - [Sujet](https://LangagesEtAutomates.github.io/Exercises/lea-tp5-project.pdf) : version PDF du sujet
   - [Code de base Java](https://github.com/LangagesEtAutomates/lea-tp6-project): code Java à compléter
 
 ---
